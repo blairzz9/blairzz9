@@ -1,5 +1,5 @@
 # Dongyu Zhang
-**MSc Neuroscience student at KCL:purple_heart::brain:**
+**MSc Neuroscience student at KCL** :purple_heart::brain:
 
 ![Academic Pages template example](images/homepage.png "Academic Pages template example")
 
